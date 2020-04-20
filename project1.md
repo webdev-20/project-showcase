@@ -21,3 +21,7 @@ Comments: Written from scratch, HTML and CSS only. No JavaScript.
 Code: https://github.com/cold412/PricingComponent      
 Link: https://cold412.github.io/PricingComponent      
 Comments: HTML/CSS/JS  
+
+### j-islam
+repo: https://github.com/J-Islam-Trine/pricing-component
+live: https://price-comp.netlify.app/
