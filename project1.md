@@ -4,9 +4,8 @@ Date: 18/4/20 - 24/4/20
 ### Notcori 
 Code: https://github.com/cmprac/pricing-component-with-toggle-master  
 Link: https://cmprac.github.io/pricing-component-with-toggle-master/   
-Comments: 
-Thumbnails:  
-[1] [2]
+Comments: HTML/CSS/JS  
+![](https://i.imgur.com/VtdolW6t.jpg) 
 
 ### V-Wong
 Code: https://github.com/V-Wong/Pricing-Component      
