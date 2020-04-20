@@ -14,6 +14,6 @@ Comments: Written from scratch with React and Typescript. Includes basic interac
 
 
 ### kubikill
-Code: https://github.com/kubikill/frontend-mentor-challenges/tree/master/pricing-component-with-toggle
-Link: https://kubikill.github.io/frontend-mentor-challenges/pricing-component-with-toggle/
+Code: https://github.com/kubikill/frontend-mentor-challenges/tree/master/pricing-component-with-toggle      
+Link: https://kubikill.github.io/frontend-mentor-challenges/pricing-component-with-toggle/      
 Comments: Written from scratch, HTML and CSS only. No JavaScript.
