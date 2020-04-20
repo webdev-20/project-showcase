@@ -23,5 +23,5 @@ Link: https://cold412.github.io/PricingComponent
 Comments: HTML/CSS/JS  
 
 ### j-islam
-repo: https://github.com/J-Islam-Trine/pricing-component
+repo: https://github.com/J-Islam-Trine/pricing-component  
 live: https://price-comp.netlify.app/
