@@ -7,3 +7,8 @@ Link: https://cmprac.github.io/pricing-component-with-toggle-master/
 Comments: 
 Thumbnails:  
 [1] [2]
+
+### V-Wong
+Code: https://github.com/V-Wong/Pricing-Component
+Link: https://vwong.dev/Pricing-Component/
+Comments: Written from scratch with React and Typescript.
