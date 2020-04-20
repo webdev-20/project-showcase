@@ -18,6 +18,6 @@ Link: https://kubikill.github.io/frontend-mentor-challenges/pricing-component-wi
 Comments: Written from scratch, HTML and CSS only. No JavaScript.
 
 ### folkstorm
-Code: https://github.com/cold412/PricingComponent
-Link: https://cold412.github.io/PricingComponent
+Code: https://github.com/cold412/PricingComponent      
+Link: https://cold412.github.io/PricingComponent      
 Comments: HTML/CSS/JS  
